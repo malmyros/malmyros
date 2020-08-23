@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Michail Almyros
+### Hi there my name is Michail Almyros
 
 I am individual passionate about Artificial Intelligence as in the science and engineering of making intelligent machines. 
 I study a number of different disciplines such Maths, Search and Planning through tree search algorithms, 
