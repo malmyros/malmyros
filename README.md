@@ -1,32 +1,23 @@
-### Hi there, I am Michail
+# Hi there, I’m Michail
 
-I am individual passionate about Artificial Intelligence as in the science and engineering of making intelligent machines. 
-I study a number of different disciplines such Maths, Search and Planning through tree search algorithms, 
-Machine learning and Deep Learning, Reinforcement learning and Causal Inference.
+I’m a software engineer specializing in **financial technology**—the systems behind banks, payments, and financial services.
 
-Each discipline is fascinating and has it merits. By studying each one of them I can explore what is possible and how one can benefit the other. I see the creation of intelligent machines as an enabler that can help us advance and prosper for our benefit but for theirs as well rather than a relationship of master and a slave.
+My focus is on building **safe, reliable, and scalable financial software**.  
+In fintech, mistakes can cost real money, trust, or lead to regulatory breaches.  
+That’s why I care deeply about engineering practices that prioritize correctness, resilience, and domain understanding.  
 
-Moving towards a new age we are going to need all the help that we can to reason with our ever changing world.
+I believe software engineers should be empowered not just with tools and frameworks,  
+but with **real domain knowledge**—so they don’t have to learn critical concepts the hard way.
 
+## Why Fintech?
 
-## Favourite books
+Many engineers entering the financial world have to reverse-engineer how payments,  
+ledgers, fraud systems, or regulatory controls work. I’ve experienced this firsthand.  
 
-Because I spend a lot of time reading books in software engineering, and
-Artificial Intelligence, here is a list of my favourite books by subject.
+It slows innovation, creates avoidable errors,  
+and leads to everyone solving the same problems again and again.  
 
-- Artificial Intelligence
-  - Artificial Intelligence: A Modern Approach Textbook by Peter Norvig and Stuart J. Russell
-  - The Society of Mind Book by Marvin Minsky
-  - The Emotion Machine Book by Marvin Minsky
-  - The Book of Why: The New Science of Cause and Effect Book by Dana Mackenzie and Judea Pearl
-  - Programming Game AI By Example by Mat Buckland
-  - Common LISP: A Gentle Introduction to Symbolic Computation Book by David S. Touretzky
-  - Paradigms of AI Programming: Case Studies in Common Lisp Book by Peter Norvig
+I’m on a mission to **bridge that knowledge gap**—and help engineers level up faster.
 
-- Software Engineering
-  - Refactoring Book by Kent Beck and Martin Fowler
-  - Working Effectively with Legacy Code Book by Michael C. Feathers
-  - Code Complete Book by Steve McConnell
-  - Extreme Programming Explained: Embrace Change
-  - Release It! Design and Deploy Production-ready Software Book by Michael T. Nygard
-  - Building Microservices: Designing Fine-Grained Systems Book by Sam Newman
+I also write about **patterns, architectures, and design principles** for fintech systems—  
+and I’m currently working on a book for software engineers building financial applications.
